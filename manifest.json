@@ -1,9 +1,9 @@
 {
-    "versionCode":  65,
-    "versionName":  "1.38.0",
-    "zipUrl":  "https://github.com/Colobia/strike-zone-ota/releases/download/ota-v65/update_v1.38.0.zip",
-    "sizeBytes":  11875440,
-    "sha256":  "a8e3a4951be84be6f4839c91df0f77ee8c40b3fd9b8a4a04893f63c900eb4930",
+    "versionCode":  66,
+    "versionName":  "1.39.0",
+    "zipUrl":  "https://github.com/Colobia/strike-zone-ota/releases/download/ota-v66/update_v1.39.0.zip",
+    "sizeBytes":  11875597,
+    "sha256":  "dd735c8d4eb4526e1994d7d1913413c9972edf65bd48b935d608396dd20c98bf",
     "mandatory":  true,
-    "updatedAt":  "2026-11-26T18:17:55.0488518-03:00"
+    "updatedAt":  "2026-11-26T18:41:04.9431991-03:00"
 }
